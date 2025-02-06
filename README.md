@@ -7,7 +7,11 @@
 🔧 Requires: Forge Loader
 
 
+
+
 🆕 What's New in This Release?
+
+
 
 
 🌟 Fully Automated Farm Construction – Build large-scale farms effortlessly in Hypixel Skyblock!
@@ -19,7 +23,9 @@
 💾 Better Save & Load Functionality – Save your farm layouts and load them anytime!
 
 
+
 📥 Installation Guide
+
 
 
 
@@ -32,7 +38,11 @@
 4️⃣ Launch Minecraft, and enjoy automated farming like never before!
 
 
+
+
 💡 Pro Tip: Use this mod to create perfect farms for crops like wheat, carrots, potatoes, nether wart, and more!
+
+
 
 
 ❓ Need Help?
